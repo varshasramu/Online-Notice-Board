@@ -2,6 +2,7 @@
 The Online Notice Board is a web-based application designed to display important announcements and updates digitally. Instead of using traditional paper notice boards, this system allows administrators to post notices online, ensuring faster communication and easy access for users or students. The application provides a centralized, user-friendly platform where notices can be uploaded, viewed, updated, and managed efficiently.
 
 🚀 Features:
+
 Admin Features
 Secure admin login
 Add new notices
